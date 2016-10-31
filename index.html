@@ -7,11 +7,34 @@
 <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="styles/main.css">
 <body>
-<h1>To Do</h1>
-
-
-
-
+	<h1>Things I Need To Do</h1>
+		<div class="panel panel-default search-bar col-xs-offset-3">
+	 		<div class="panel-body">
+	  		<input class="form-control" type="text" id="toDoInput" placeholder="enter a task">
+	  		<button type="button" class="btn btn-primary btn-lg" id="clicky-button">submit</button>
+	  	</div>
+	  	</div>
+		</form>
+		<div class="outputDiv">
+		<h2>To Do List:</h2>
+			<div class="container" id="todoContainer">
+					<div class="col-xs-12 col-sm-6 col-md-8" id="todoOutput"></div>
+			</div>
+			<h2>Completed Tasks:</h2>
+			<div class="container" id="completeContainer"></div>
+					<div class="col-xs-12 col-sm-6 col-md-8" id="completeOutput"></div>
+			</div>
+		</form>
+<!-- 		<section class="todoDiv">
+			<div id="output"></div>
+				<h2>To Do List:</h2>
+			</div>
+		</section>
+		<section class= "completedDiv">
+		<div id="completeTask"></div>
+				<h2>Completed Tasks:</h2>
+			</div>
+		</section> -->	
 <script src="/lib/bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script type="text/javascript" src="/javascripts/main.js"></script>
