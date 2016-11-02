@@ -1,16 +1,29 @@
 {
   "items": {
     "item0": {
-      "task": "mow the lawn",
-      "isCompleted": true
+      "task": "take out the papers and the trash",
+      "isCompleted": true,
+      "uid": ""
+
+
+
     },
     "item1": {
-      "task": "eat chips",
-      "isCompleted": false
+      "task": "get some spending cash",
+      "isCompleted": true,
+      "uid": ""
+
     },
     "item2": {
-      "task": "take a nap",
-      "isCompleted": false
+      "task": "go out friday night",
+      "isCompleted": true,
+      "uid": ""
+
+    },
+    "item3": {
+      "task": "bring in the dog and put the cat",
+      "isCompleted": true,
+      "uid": "lIph9qpnUmSFmcHktalvFZqz3Jj2"
     }
   }
 }
