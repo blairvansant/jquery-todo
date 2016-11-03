@@ -1,11 +1,9 @@
-body {
-  background-color: #E0EEEE; }
-  body h1 {
-    text-align: center; }
+body h1 {
+  color: green;
+  text-align: center; }
 
 .search-bar {
-  text-align: center;
-  margin: 0 auto; }
+  text-align: center; }
   .search-bar input {
     margin-bottom: 20px; }
 
@@ -71,6 +69,3 @@ ul li.editMode input[type=text] {
 
 ul li.editMode label {
   display: none; }
-
-.panel-body {
-  background-color: teal; }

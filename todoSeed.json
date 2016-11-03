@@ -1,29 +1,29 @@
 {
   "items": {
     "item0": {
-      "task": "take out the papers and the trash",
+      "task": "mow the lawn",
       "isCompleted": true,
-      "uid": ""
-
-
-
+      "uid": "HrprUhi6MoTBWcc7w6gSCD1eBMU2"
     },
     "item1": {
-      "task": "get some spending cash",
-      "isCompleted": true,
-      "uid": ""
-
+      "task": "eat chips",
+      "isCompleted": false,
+      "uid": "HrprUhi6MoTBWcc7w6gSCD1eBMU2"
     },
     "item2": {
-      "task": "go out friday night",
-      "isCompleted": true,
-      "uid": ""
-
+      "task": "take a nap",
+      "isCompleted": false,
+      "uid": "XvqvMzn2KOQW7jU1lRqYC1QeBFW2"
+    }
+  },
+  "users": {
+    "user1": {
+      "username": "a",
+      "uid": "HrprUhi6MoTBWcc7w6gSCD1eBMU2"
     },
-    "item3": {
-      "task": "bring in the dog and put the cat",
-      "isCompleted": true,
-      "uid": "lIph9qpnUmSFmcHktalvFZqz3Jj2"
+    "user2": {
+      "username": "b",
+      "uid": "XvqvMzn2KOQW7jU1lRqYC1QeBFW2"
     }
   }
 }
